@@ -1,5 +1,5 @@
 {
-  "name": "hmac-sha256",
+* "name": "hmac-sha256",
   "version": "0.1.1",
   "repo": "aperezdc/hmac-sha256",
   "description": "No-frills HMAC-SHA256 implementation in C",
@@ -10,3 +10,4 @@
     "jb55/sha256.c": "0.0.2"
   }
 }
+ 
