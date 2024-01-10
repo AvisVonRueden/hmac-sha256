@@ -1,5 +1,5 @@
 /*
- * hmac-sha256.h
+** hmac-sha256.h
  * Copyright (C) 2017 Adrian Perez <aperez@igalia.com>
  *
  * Distributed under terms of the MIT license.
@@ -18,4 +18,5 @@ hmac_sha256 (uint8_t out[HMAC_SHA256_DIGEST_SIZE],
              const uint8_t *data, size_t data_len,
              const uint8_t *key, size_t key_len);
 
-#endif /* !HMAC_SHA256_H */
+#endif /*  HMAC_SHA256_H */
+ 
